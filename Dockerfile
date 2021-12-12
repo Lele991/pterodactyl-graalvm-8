@@ -3,7 +3,7 @@
 # Environment: Java
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM ghcr.io/graalvm/graalvm-ce:java8
+FROM lustefaniak/graalvm:8
 
 MAINTAINER Lele991
 
