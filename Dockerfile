@@ -3,7 +3,7 @@
 # Environment: Java
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM lustefaniak/graalvm:8
+FROM mianotfake/graalvm:8
 
 MAINTAINER Lele991
 
