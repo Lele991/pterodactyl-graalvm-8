@@ -8,7 +8,7 @@ GraalVM is a high-performance runtime that provides significant improvements in 
 
 ## Docker Image
 
-This image uses ghcr.io/graalvm/graalvm-ce:java8 base image.
+> mianotfake/graalvm:8
 
 ## Versions
 - GraalVM 21.1.0
